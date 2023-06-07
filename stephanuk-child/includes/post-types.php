@@ -152,6 +152,6 @@ new newPostType(
 		'publicly_queryable'  => false,
 		'show_in_admin_bar'   => false,
 		'has_archive'         => false,
-		'supports'            => array('title', 'revisions', 'thumbnail'),
+		'supports'            => array('title', 'revisions'),
 	)
 );
