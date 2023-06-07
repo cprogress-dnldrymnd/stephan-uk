@@ -1,0 +1,18 @@
+<wpml-config>
+  <custom-types>
+    <custom-type translate="0">trydus_header</custom-type>
+    <custom-type translate="0">trydus_footer</custom-type>
+    <custom-type translate="0">team</custom-type>
+    <custom-type translate="0">service</custom-type>
+    <custom-type translate="0">project</custom-type>
+    <custom-type translate="0">trydus_testimonial</custom-type>
+  </custom-types>
+  <taxonomies>
+    <taxonomy translate="0">team-category</taxonomy>
+    <taxonomy translate="0">team-tag</taxonomy>
+    <taxonomy translate="0">service-category</taxonomy>
+    <taxonomy translate="0">service-tag</taxonomy>
+    <taxonomy translate="0">project-category</taxonomy>
+    <taxonomy translate="0">project-tag</taxonomy>
+  </taxonomies>
+</wpml-config>

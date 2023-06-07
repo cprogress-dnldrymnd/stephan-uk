@@ -1,0 +1,94 @@
+﻿ID,Type,SKU,Name,Published,"Is featured?","Visibility in catalog","Short description",Description,"Date sale price starts","Date sale price ends","Tax status","Tax class","In stock?",Stock,"Low stock amount","Backorders allowed?","Sold individually?","Weight (kg)","Length (cm)","Width (cm)","Height (cm)","Allow customer reviews?","Purchase note","Sale price","Regular price",Categories,Tags,"Shipping class",Images,"Download limit","Download expiry days",Parent,"Grouped products",Upsells,Cross-sells,"External URL","Button text",Position,"Attribute 1 name","Attribute 1 value(s)","Attribute 1 visible","Attribute 1 global","Attribute 2 name","Attribute 2 value(s)","Attribute 2 visible","Attribute 2 global","Meta: inline_featured_image","Meta: _wp_page_template","Meta: _aioseo_title","Meta: _aioseo_description","Meta: _aioseo_keywords","Meta: _aioseo_og_article_section","Meta: _aioseo_og_article_tags","Meta: rs_page_bg_color","Meta: accordion","Meta: _accordion","Meta: resources_heading","Meta: _resources_heading","Meta: resources_description","Meta: _resources_description","Meta: button_text","Meta: _button_text","Meta: button_link","Meta: _button_link","Meta: _cmplz_scanned_post","Meta: accordion_0_accordion_title","Meta: _accordion_0_accordion_title","Meta: accordion_0_accordion_content","Meta: _accordion_0_accordion_content","Meta: accordion_1_accordion_title","Meta: _accordion_1_accordion_title","Meta: accordion_1_accordion_content","Meta: _accordion_1_accordion_content","Meta: accordion_2_accordion_title","Meta: _accordion_2_accordion_title","Meta: accordion_2_accordion_content","Meta: _accordion_2_accordion_content","Meta: accordion_3_accordion_title","Meta: _accordion_3_accordion_title","Meta: accordion_3_accordion_content","Meta: _accordion_3_accordion_content","Meta: accordion_4_accordion_title","Meta: _accordion_4_accordion_title","Meta: accordion_4_accordion_content","Meta: _accordion_4_accordion_content","Meta: cmplz_hide_cookiebanner"
+15167,simple,01234567,"Lorem ipsum",1,0,visible,"Superior engine coolant with minimal environmental impact.","Mauris eget dolor dolor. Suspendisse finibus tortor vel turpis sagittis, vel ullamcorper elit euismod. Nam sed erat ac risus blandit malesuada a sit amet ipsum. Sed dignissim in elit sit amet scelerisque. Mauris posuere pharetra placerat. Curabitur vestibulum lacinia lacus. Mauris diam purus, aliquet eu efficitur quis, suscipit quis nunc.\n\nVivamus sollicitudin lacinia magna, at volutpat est egestas in. Donec porta volutpat magna, dictum ornare nulla malesuada vel. Nunc lorem sapien, placerat ac auctor vel, laoreet sed risus. Donec pulvinar pharetra varius. Fusce nunc tellus, congue ut euismod venenatis, congue ac justo. Fusce a nunc non magna vehicula finibus ut sit amet massa. Donec nec mauris nec sem accumsan cursus. Cras facilisis mollis augue, quis tincidunt orci sodales et. Donec in dictum felis.",,,taxable,,1,,,0,0,,,,,1,,,100,Rubber,,,https://performancefluids.theprogressteam.com/wp-content/uploads/2021/05/DefaultPackshot.png,,,,,,,,,0,"Oil Type","Water soluble cutting fluids, Additives, Anti-corrosion fluids, Automatic transmission fluid",1,1,"Viscosity / NLGI","0, 0.5, 00, 0W-16",1,1,0,default,"#post_title #separator_sa #site_title",#post_excerpt,,,,,,field_60adf34e9b702,,field_60adfa8714b01,,field_60adfac014b04,,field_60adfad514b05,,field_60adfadb14b06,1,,,,,,,,,,,,,,,,,,,,,
+15169,simple,012345678,"Brunel XF 741",1,0,visible,"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce at velit a lacus vulputate mattis. Nulla elementum at mi finibus consequat. Sed commodo varius risus, et commodo nisi vehicula non. Sed in rutrum orci.","Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce at velit a lacus vulputate mattis. Nulla elementum at mi finibus consequat. Sed commodo varius risus, et commodo nisi vehicula non. Sed in rutrum orci.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce at velit a lacus vulputate mattis. Nulla elementum at mi finibus consequat. Sed commodo varius risus, et commodo nisi vehicula non. Sed in rutrum orci.",,,taxable,,1,,,0,0,,,,,1,,,10,Rubber,,,https://performancefluids.theprogressteam.com/wp-content/uploads/2021/05/DefaultPackshot.png,,,,,,,,,0,"Oil Type","Anti-corrosion fluids",1,1,"Viscosity / NLGI",0W-16,1,1,0,default,"#post_title #separator_sa #site_title",#post_excerpt,,,,,3,field_60adf34e9b702,,field_60adfa8714b01,,field_60adfac014b04,,field_60adfad514b05,,field_60adfadb14b06,1,Test,field_60adf3fc9b704,"Lorem ipsum",field_60adf4049b705,Application,field_60adf3fc9b704,"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",field_60adf4049b705,"Health, safety & environment",field_60adf3fc9b704,"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",field_60adf4049b705,,,,,,,,,
+15845,simple,012345678-1,"Brunel XF 741 (Copy)",1,0,visible,"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce at velit a lacus vulputate mattis. Nulla elementum at mi finibus consequat. Sed commodo varius risus, et commodo nisi vehicula non. Sed in rutrum orci.","Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce at velit a lacus vulputate mattis. Nulla elementum at mi finibus consequat. Sed commodo varius risus, et commodo nisi vehicula non. Sed in rutrum orci.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce at velit a lacus vulputate mattis. Nulla elementum at mi finibus consequat. Sed commodo varius risus, et commodo nisi vehicula non. Sed in rutrum orci.",,,taxable,,1,,,0,0,,,,,1,,,10,"Rubber, Metalworking",,,https://performancefluids.theprogressteam.com/wp-content/uploads/2021/05/DefaultPackshot.png,,,,,,,,,0,"Oil Type","Anti-corrosion fluids",1,1,"Viscosity / NLGI",0W-16,1,1,0,default,"#post_title #separator_sa #site_title",#post_excerpt,,,,,4,field_60adf34e9b702,,field_60adfa8714b01,,field_60adfac014b04,,field_60adfad514b05,,field_60adfadb14b06,1,Application,field_60adf3fc9b704,"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",field_60adf4049b705,Test,field_60adf3fc9b704,"Lorem ipsum",field_60adf4049b705,"Health, safety & environment",field_60adf3fc9b704,"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",field_60adf4049b705,"New Section",field_60adf3fc9b704,Test,field_60adf4049b705,,,,,
+16221,simple,RH20487,"Rheolease® 2416",1,0,visible,"Rheolease® 2416 is a specialist mandrel release agent originally designed to work with acrylic rubber compounds, such as HT-ACM, Vamac and ACM. Key features include high viscosity, fast BOD and non-hazardous.","<p style=""text-align: justify;"">Rheolease® 2416 is a specialist mandrel release agent originally designed to work with acrylic rubber compounds, such as HT-ACM, Vamac and ACM. Due to the chemistry of this synthetic polymer, wetting of mandrels is achieved and maintained after vulcanisation. This results in excellent lubricity both before and after curing. Rheolease® 2416 also has excellent biodegradability (&gt;60% in 5 days).</p>",,,taxable,,1,,,0,0,,,,,1,,,,Rubber,,,"https://performancefluids.theprogressteam.com/wp-content/uploads/2022/01/IBC.jpg, https://performancefluids.theprogressteam.com/wp-content/uploads/2022/02/multi-plant.jpg, https://performancefluids.theprogressteam.com/wp-content/uploads/2022/02/Hot-plates.jpg",,,,,,,,,0,,,,,,,,,0,default,,,,,,,5,field_60adf34e9b702,,,,,,,,,1,"Rubber Compounds",field_60adf3fc9b704,"<ul type=""disc"">
+    <li>
+        HT – ACM
+    </li>
+    <li>
+        Vamac
+    </li>
+    <li>
+        ACM
+    </li>
+    <li>
+        CR
+    </li>
+    <li>
+        CM
+    </li>
+    <li>
+        FKM
+    </li>
+</ul>
+<br />",field_60adf4049b705,Benefits,field_60adf3fc9b704,"<p>
+    Benefits of Rheolease® 2416 include:
+</p>
+<ul type=""disc"">
+    <li>
+        High Biodegradability (BOD)
+    </li>
+    <li>
+        Low Chemical Oxygen Demand (COD)
+    </li>
+    <li>
+        Non-hazardous
+    </li>
+    <li>
+        Excellent loading and release performance (pin and pull)
+    </li>
+    <li>
+        Reduced mandrel fouling
+    </li>
+    <li>
+        Water washable
+    </li>
+    <li>
+        Low cost
+    </li>
+</ul>",field_60adf4049b705,"Typical Properties",field_60adf3fc9b704,"<p>
+    Appearance = Pale yellow viscous liquid
+</p>
+<p>
+    Viscosity @ 40°C = 2000cPs
+</p>
+<p>
+    Viscosity @ 25°C = 4000cPs
+</p>
+<p>
+    pH (5% Aqueous) = 7.0
+</p>",field_60adf4049b705,"Pack Sizes",field_60adf3fc9b704,"<p>
+    Rheolease® 2416 is available in the following pack sizes:
+</p>
+<ul type=""disc"">
+    <li>
+        1000kg IBC
+    </li>
+    <li>
+        2400lb IBC/tote
+    </li>
+    <li>
+        200kg Drum
+    </li>
+    <li>
+        20kg Keg
+    </li>
+</ul>",field_60adf4049b705,Alternatives,field_60adf3fc9b704,"<p>
+    The following alternatives to Rheolease® 2416 are available:
+</p>
+<ul type=""disc"">
+    <li>
+        Rheolease® 2416LV - Lower Viscosity
+    </li>
+    <li>
+        Rheolease® 2416MV - Higher Viscosity
+    </li>
+    <li>
+        Rheolease® 2544G - Extrusion gel compatible with Rheolease® 2416.
+    </li>
+</ul>
+<p>
+    We can also design bespoke solutions to meet your needs. Please contact us
+    to arrange a consultation with one of our experts.
+</p>",field_60adf4049b705,

@@ -1,0 +1,677 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Trydus\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-01-07 11:21+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.0; wp-5.6\n"
+"X-Domain: trydus"
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:67
+msgid " "
+msgstr ""
+
+#: inc/classes/Trydus_Main.php:288
+msgid " Current job openings"
+msgstr ""
+
+#: inc/template-tags.php:70 inc/template-tags.php:77
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#. 1: title.
+#: comments.php:98
+msgid "1 Responses on this post"
+msgstr ""
+
+#: 404.php:18
+msgid "404 Error"
+msgstr ""
+
+#. Description of the theme
+msgid "A premium WordPress App Landing Theme"
+msgstr ""
+
+#: inc/widgets.php:12 inc/widgets.php:23
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/demo-setup.php:26 inc/demo-setup.php:42
+msgid "After you import this demo, you will have to setup the nav menu."
+msgstr ""
+
+#: inc/classes/Trydus_Main.php:313
+#, php-format
+msgid "Archive by Category \"%s\""
+msgstr ""
+
+#: inc/classes/Trydus_Main.php:316
+#, php-format
+msgid "Articles Posted by %s"
+msgstr ""
+
+#: 404.php:20
+msgid "Back to Home"
+msgstr ""
+
+#: inc/theme-options.php:512
+msgid "Blog Grid"
+msgstr ""
+
+#: inc/theme-options.php:500
+msgid "Blog Layout"
+msgstr ""
+
+#: inc/theme-options.php:478
+msgid "Blog Page"
+msgstr ""
+
+#: inc/theme-options.php:493
+msgid "Blog Page Hero Caption"
+msgstr ""
+
+#: inc/theme-options.php:486
+msgid "Blog Page Title"
+msgstr ""
+
+#: inc/widgets.php:10
+msgid "Blog Sidebar"
+msgstr ""
+
+#: inc/theme-options.php:244
+msgid "Body Background Color"
+msgstr ""
+
+#: inc/theme-options.php:361
+msgid "Body Typography"
+msgstr ""
+
+#: inc/theme-options.php:446
+msgid "Breadcrumb Area Padding"
+msgstr ""
+
+#: inc/theme-options.php:431
+msgid "Breadcrumb Background"
+msgstr ""
+
+#: inc/theme-options.php:415
+msgid "Breadcrumb On/Off "
+msgstr ""
+
+#: inc/theme-options.php:423
+msgid "Breadcrumb Seperator "
+msgstr ""
+
+#: inc/theme-options.php:453
+msgid "Breadcrumb Typography"
+msgstr ""
+
+#: inc/theme-options.php:408
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/theme-options.php:578
+msgid ""
+"By accessing and placing an order with UXTheme, you confirm that you are in "
+"agreement with and bound by the terms and conditions."
+msgstr ""
+
+#: inc/theme-options.php:597 inc/theme-options.php:630
+msgid "Case Studies"
+msgstr ""
+
+#: inc/classes/Trydus_Main.php:286
+msgid "Case Study"
+msgstr ""
+
+#: inc/theme-options.php:587
+msgid "Case Study Page"
+msgstr ""
+
+#: inc/theme-options.php:602
+msgid "Case Study Page Hero Caption"
+msgstr ""
+
+#: inc/theme-options.php:595
+msgid "Case Study Page Title"
+msgstr ""
+
+#: inc/theme-options.php:501
+msgid "Choose the layout you want in blog pages"
+msgstr ""
+
+#: inc/theme-options.php:548
+msgid "Choose the layout you want in single pages"
+msgstr ""
+
+#: inc/theme-options.php:513
+msgid "Choose the number of column you want in blog pages"
+msgstr ""
+
+#: inc/theme-options.php:323
+msgid "Choose the site logo"
+msgstr ""
+
+#: comments.php:54
+msgid "Comment"
+msgstr ""
+
+#: inc/classes/Trydus_Main.php:319
+#, php-format
+msgid "Comment Page %s"
+msgstr ""
+
+#: comments.php:47
+msgid "Comments are closed."
+msgstr ""
+
+#: template-parts/contents/content.php:60
+msgid "Continue Reading"
+msgstr ""
+
+#: inc/theme-options.php:526
+msgid "Continue reading"
+msgstr ""
+
+#: inc/theme-options.php:524 inc/theme-options.php:609
+msgid "Continue Reading Button Title"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/single/service.php:40 template-parts/single/job.php:42
+#: template-parts/single/team.php:39 template-parts/single/post.php:22
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: inc/theme-options.php:661
+msgid "Copyright"
+msgstr ""
+
+#: inc/template-functions.php:259
+msgid "Copyright 2020, All Rights Reserved"
+msgstr ""
+
+#: inc/theme-options.php:432
+msgid "Customize your breadcrumb background area."
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:104 template-parts/contents/content-page.php:36
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: comments.php:65
+msgid "Email address"
+msgstr ""
+
+#: inc/theme-options.php:237
+msgid "Enable Preloader?"
+msgstr ""
+
+#: inc/theme-options.php:525 inc/theme-options.php:610
+msgid "Enter the button text for continue reading button."
+msgstr ""
+
+#: inc/classes/Trydus_Main.php:317
+msgid "Error 404"
+msgstr ""
+
+#: comments.php:66
+msgid "example@gmail.com"
+msgstr ""
+
+#: inc/theme-options.php:645
+msgid "Footer"
+msgstr ""
+
+#: inc/theme-options.php:229
+msgid "General Settings"
+msgstr ""
+
+#: inc/theme-options.php:603
+msgid "Give any breadcrumb page caption for the case study page."
+msgstr ""
+
+#: inc/theme-options.php:636
+msgid "Give any breadcrumb page caption for the job page."
+msgstr ""
+
+#: inc/theme-options.php:577
+msgid "Give any breadcrumb page caption for the Shop page."
+msgstr ""
+
+#: inc/theme-options.php:487 inc/theme-options.php:494
+msgid "Give any breadcrumb page title for the blog page."
+msgstr ""
+
+#: inc/theme-options.php:596
+msgid "Give any breadcrumb page title for the case study page."
+msgstr ""
+
+#: inc/theme-options.php:629
+msgid "Give any breadcrumb page title for the job page."
+msgstr ""
+
+#: inc/theme-options.php:570
+msgid "Give any breadcrumb page title for the shop page."
+msgstr ""
+
+#: inc/theme-options.php:541
+msgid "Give any breadcrumb page title for the single article page."
+msgstr ""
+
+#: inc/theme-options.php:662
+msgid "Give the copyright text"
+msgstr ""
+
+#. Author of the theme
+msgid "Grayic"
+msgstr ""
+
+#: inc/theme-options.php:286
+msgid "Header"
+msgstr ""
+
+#: inc/theme-options.php:268
+msgid "Heading Color"
+msgstr ""
+
+#: inc/theme-options.php:382
+msgid "Heading Typography"
+msgstr ""
+
+#: inc/classes/Trydus_Main.php:312
+msgid "Home"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://grayic.com/"
+msgstr ""
+
+#. URI of the theme
+msgid "http://uxtheme.net/demos/wp/trydus"
+msgstr ""
+
+#: template-parts/contents/content-none.php:50
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: inc/theme-options.php:620
+msgid "Job Page"
+msgstr ""
+
+#: inc/theme-options.php:635
+msgid "Job Page Hero Caption"
+msgstr ""
+
+#: inc/theme-options.php:628
+msgid "Job Page Title"
+msgstr ""
+
+#: comments.php:61
+msgid "John Doe"
+msgstr ""
+
+#. %s: post title
+#: inc/template-tags.php:87
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:74
+msgctxt "list item separator"
+msgid ""
+msgstr ""
+
+#: comments.php:137
+msgid "Load more comments"
+msgstr ""
+
+#: inc/theme-options.php:315 inc/theme-options.php:322
+msgid "Logo"
+msgstr ""
+
+#: inc/theme-options.php:331
+msgid "Logo Max Width (Desktop)"
+msgstr ""
+
+#: inc/theme-options.php:341
+msgid "Logo Max Width (Mobile)"
+msgstr ""
+
+#: functions.php:52
+msgid "Main Menu"
+msgstr ""
+
+#: single.php:59
+msgid "Next:"
+msgstr ""
+
+#: template-parts/contents/content-none.php:20
+msgid "Nothing Found"
+msgstr ""
+
+#: 404.php:19
+msgid ""
+"Ops! It seems like the page you are looking for is not available! Please try "
+"again with another page or go back to home."
+msgstr ""
+
+#: inc/classes/Trydus_Main.php:284
+msgid "Our Blog"
+msgstr ""
+
+#: inc/theme-options.php:488
+msgid "Our blog"
+msgstr ""
+
+#: inc/classes/Trydus_Main.php:294
+msgid "Our Products"
+msgstr ""
+
+#: inc/theme-options.php:571
+msgid "Our Shop"
+msgstr ""
+
+#: inc/classes/Trydus_Main.php:318
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: template-parts/single/service.php:53 template-parts/single/job.php:55
+#: template-parts/single/post.php:35
+#: template-parts/contents/content-page.php:22
+msgid "Pages:"
+msgstr ""
+
+#: inc/theme-options.php:269
+msgid "Pick a color for headings."
+msgstr ""
+
+#: inc/theme-options.php:277
+msgid "Pick a color for texts."
+msgstr ""
+
+#: inc/theme-options.php:245
+msgid "Pick a color for the body."
+msgstr ""
+
+#: inc/theme-options.php:253 inc/theme-options.php:261
+msgid "Pick a color for the theme."
+msgstr ""
+
+#: inc/theme-options.php:447
+msgid "Please specify breadcrumb area padding."
+msgstr ""
+
+#. %s: post author.
+#: inc/template-tags.php:49
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. %s: post date.
+#: inc/template-tags.php:32
+#, php-format
+msgctxt "post date"
+msgid "%s"
+msgstr ""
+
+#. 1: list of categories.
+#: inc/template-tags.php:70
+msgid "Posted in:"
+msgstr ""
+
+#: inc/classes/Trydus_Main.php:315
+#, php-format
+msgid "Posts Tagged \"%s\""
+msgstr ""
+
+#: single.php:58
+msgid "Previous:"
+msgstr ""
+
+#: inc/theme-options.php:252
+msgid "Primary Color"
+msgstr ""
+
+#: inc/theme-options.php:495
+msgid "Read our latest blog posts."
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/contents/content-none.php:30
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:104
+#, php-format
+msgctxt "Responses title"
+msgid "%1$s Response on this post"
+msgid_plural "%1$s Responses on this post"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/Trydus_Main.php:314
+#, php-format
+msgid "Search Results for \"%s\" Query"
+msgstr ""
+
+#: inc/classes/Trydus_Main.php:298
+msgid "Search results for: "
+msgstr ""
+
+#: inc/theme-options.php:260
+msgid "Secondary Color"
+msgstr ""
+
+#: inc/theme-options.php:611
+msgid "See Case Study"
+msgstr ""
+
+#: inc/theme-options.php:669
+msgid "Select Footer Template"
+msgstr ""
+
+#: inc/theme-options.php:295
+msgid "Select Header Template"
+msgstr ""
+
+#: inc/theme-options.php:332
+msgid "Set the logo maximum width size for desktop in px unit"
+msgstr ""
+
+#: inc/theme-options.php:342
+msgid "Set the logo maximum width size for mobile in px unit"
+msgstr ""
+
+#: inc/theme-options.php:377
+msgid "Set typography for body"
+msgstr ""
+
+#: inc/theme-options.php:468
+msgid "Set typography for breadcrumb title"
+msgstr ""
+
+#: inc/theme-options.php:399
+msgid "Set typography for heading"
+msgstr ""
+
+#: inc/theme-options.php:561
+msgid "Shop Page"
+msgstr ""
+
+#: inc/theme-options.php:576
+msgid "Shop Page Breadcrumb Caption"
+msgstr ""
+
+#: inc/theme-options.php:569
+msgid "Shop Page Title"
+msgstr ""
+
+#: inc/theme-options.php:416
+msgid "Show/hide the breadcrumb."
+msgstr ""
+
+#: inc/theme-options.php:532
+msgid "Single Page"
+msgstr ""
+
+#: inc/theme-options.php:547
+msgid "Single Page Layout"
+msgstr ""
+
+#: inc/theme-options.php:540
+msgid "Single Page Title"
+msgstr ""
+
+#: header.php:32
+msgid "Skip to content"
+msgstr ""
+
+#: template-parts/contents/content-none.php:43
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/contents/content.php:38
+msgid "Sticky"
+msgstr ""
+
+#: comments.php:52
+msgid "Submit your response"
+msgstr ""
+
+#. 1: list of tags.
+#: inc/template-tags.php:77
+msgid "Tagged:"
+msgstr ""
+
+#: inc/theme-options.php:276
+msgid "Text Color"
+msgstr ""
+
+#: inc/theme-options.php:203
+msgid "Theme activated succeessfully!!"
+msgstr ""
+
+#: inc/theme-options.php:210
+msgid "Theme are not activated"
+msgstr ""
+
+#: inc/theme-options.php:177
+msgid "Theme Information 1"
+msgstr ""
+
+#: inc/theme-options.php:182
+msgid "Theme Information 2"
+msgstr ""
+
+#: inc/theme-options.php:189
+msgid "This is the sidebar content, HTML is allowed."
+msgstr ""
+
+#: inc/theme-options.php:178 inc/theme-options.php:183
+msgid "This is the tab content, HTML is allowed."
+msgstr ""
+
+#: inc/theme-options.php:417 inc/theme-options.php:433
+msgid "This setting can be override by page breatdcrumb settings."
+msgstr ""
+
+#: inc/theme-options.php:157
+msgid ""
+"This text is displayed above the options panel. It isn't required, but more "
+"info is always better! The intro_text field accepts all HTML."
+msgstr ""
+
+#: inc/theme-options.php:161
+msgid ""
+"This text is displayed below the options panel. It isn't required, but more "
+"info is always better! The footer_text field accepts all HTML."
+msgstr ""
+
+#. Name of the theme
+msgid "Trydus"
+msgstr ""
+
+#: inc/theme-options.php:647
+msgid "Trydus footer settings!"
+msgstr ""
+
+#: inc/theme-options.php:51 inc/theme-options.php:52
+msgid "Trydus Options"
+msgstr ""
+
+#: searchform.php:2
+msgid "Type to search"
+msgstr ""
+
+#: inc/theme-options.php:354
+msgid "Typography"
+msgstr ""
+
+#: inc/theme-options.php:654
+msgid "Use Custom Footer Template"
+msgstr ""
+
+#: inc/theme-options.php:655
+msgid "Wish to use any custom footer template?"
+msgstr ""
+
+#: inc/theme-options.php:238
+msgid "Wish to use preloader?"
+msgstr ""
+
+#: inc/theme-options.php:604 inc/theme-options.php:637
+msgid ""
+"With lots of unique blocks, you can easily build a page without coding. "
+"Build your next consultancy website within few minutes."
+msgstr ""
+
+#: inc/widgets.php:21
+msgid "WooCommerce Widgets"
+msgstr ""
+
+#: comments.php:55
+msgid "Write your comment"
+msgstr ""
+
+#: inc/theme-options.php:670
+msgid ""
+"You can build your footer with Elementor From \"Header & Footer menu\" and "
+"select that template section here so that your selected footer template will "
+"show all over the site."
+msgstr ""
+
+#: inc/theme-options.php:296
+msgid ""
+"You can build your Header with Elementor From \"Header & Footer menu\" and "
+"select that template section here so that your selected footer template will "
+"show all over the site."
+msgstr ""
+
+#: comments.php:60
+msgid "Your name"
+msgstr ""

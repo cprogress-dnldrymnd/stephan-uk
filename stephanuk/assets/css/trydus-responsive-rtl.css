@@ -1,0 +1,216 @@
+@media only screen and (max-width: 991px) {
+
+    
+
+
+    a {
+        word-break: break-word;
+    }
+
+    .mean-container .mean-nav ul li li a {
+        opacity: .95;
+    }
+
+    .nav-links .nav-title {
+        font-size: 23px;
+        line-height: 1.5;
+    }
+
+    .team-content {
+        padding-left: 0px;
+    }
+
+   
+
+}
+
+
+
+@media only screen and (max-width:1024px) and (min-width:768px) {
+
+    .elementor-section.elementor-section-boxed>.elementor-container {
+        max-width: 768px !important;
+    }
+
+    .blog-breadcrumb {
+        padding: 75px 0 50px;
+    }
+
+    .blog-breadcrumb h1.post__title {
+        margin-bottom: 10px;
+    }
+
+    .blog .content-block {
+        padding-bottom: 80px;
+    }
+
+    .content-block {
+        padding: 70px 0 50px;
+    }
+
+    .comment-form-area {
+        padding: 70px 0 60px;
+    }
+
+    .comments-area {
+        padding: 70px 0 50px;
+    }
+
+    .post-details-page .entry-content {
+        padding-left: 0;
+    }
+
+    .trydus-mobile-menu.mean-container {
+        margin-left: 20px;
+    }
+
+    .team-thumnbnail-wrap {
+        margin-left: 30px;
+    }
+
+    .content-block.team-details-page {
+        padding: 70px 0 75px;
+    }
+
+    .content-block.job-details-page {
+        padding: 55px 0 80px;
+    }
+
+    .trydus-job-title {
+        margin-bottom: 50px;
+    }
+
+}
+
+@media only screen and (max-width:767px) {
+    .single img.attachment-post-thumbnail.size-post-thumbnail.wp-post-image {
+        position: static;
+        max-width: 1000%;
+        max-height: 400px;
+        width: 100%;
+        margin-bottom: 30px;
+    }
+
+    blockquote {
+        margin-right: 0;
+        margin-left: 0;
+    }
+
+    .trydusp ro-cs-result {
+        margin-bottom: 30px;
+    }
+
+    .trydus-cs-result-title {
+        margin-bottom: 0;
+        font-size: 75px;
+    }
+
+    .post-details-page .entry-content {
+        padding-left: 0;
+    }
+
+    .elementor-section.elementor-section-boxed>.elementor-container {
+        max-width: 390px !important;
+    }
+
+    .blog-sidebar-col {
+        margin-top: 60px;
+    }
+
+    .blog .content-block {
+        padding-bottom: 30px;
+    }
+
+    .blog-breadcrumb {
+        padding: 55px 0 35px;
+    }
+
+    .blog-breadcrumb h1.post__title {
+        margin-bottom: 10px;
+        font-size: 54px;
+    }
+
+    blockquote.wp-block-quote {
+        padding-left: 0;
+    }
+
+    .post-details-page .entry-content {
+        padding-left: 0;
+    }
+
+    .content-block {
+        padding: 50px 0 30px;
+    }
+
+    .content-block .entry-header {
+        margin-bottom: 28px;
+    }
+
+    .content-block .entry-title {
+        margin-bottom: 5px;
+        font-size: 30px;
+    }
+
+    .post-details-page .post-thumbnail {
+        margin-bottom: 0;
+    }
+
+    .content-block .post-navigation {
+        margin-top: 20px;
+        margin-bottom: 50px;
+    }
+
+    .comment-form-area {
+        padding: 50px 0 40px;
+    }
+
+    .comments-area {
+        padding: 50px 0 30px;
+    }
+
+    .comments-title {
+        margin-bottom: 30px;
+    }
+
+    .trydus-team-wrap {
+        display: block;
+    }
+
+    .team-thumnbnail-wrap {
+        width: 100%;
+        margin-left: 0;
+    }
+
+    .content-block.team-details-page {
+        padding: 45px 0 55px;
+    }
+
+    .trydus-team-title {
+        margin-bottom: 20px;
+    }
+
+
+    .entry-content h1,
+    .entyr-content h2,
+    .entry-content h3,
+    .entry-content h4,
+    .entry-content h5,
+    .entry-content h6,
+    .entry-content h1:not(:first-child),
+    .entyr-content h2:not(:first-child),
+    .entry-content h3:not(:first-child),
+    .entry-content h4:not(:first-child),
+    .entry-content h5:not(:first-child),
+    .entry-content h6:not(:first-child) {
+        margin-top: 30px;
+    }
+
+
+
+
+    .content-block .post-navigation .nav-links .nav-previous {
+        margin-bottom: 10px;
+    }
+    
+    .content-block .post-navigation .nav-links .nav-title {font-size: 20px;line-height: 1.3;}
+}
