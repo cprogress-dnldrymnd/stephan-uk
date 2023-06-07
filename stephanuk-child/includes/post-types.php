@@ -14,6 +14,7 @@ class newPostType
 		$this->exclude_from_search = $param['exclude_from_search'];
 		$this->publicly_queryable = $param['publicly_queryable'];
 		$this->show_in_admin_bar = $param['show_in_admin_bar'];
+		$this->supports = $param['supports'];
 		if ($param['rewrite']) {
 			$this->rewrite = $param['rewrite'];
 		}
@@ -43,7 +44,7 @@ class newPostType
 					'not_found'          => __('No ' . strtolower($this->name) . ' found.'),
 					'not_found_in_trash' => __('No ' . strtolower($this->name) . ' found in Trash.')
 				),
-				'supports'            => array('title', 'editor', 'thumbnail', 'revisions', 'excerpt'),
+				'supports'            => $this->supports,
 				'public'              => true,
 				'has_archive'         => false,
 				'hierarchical'        => false,
