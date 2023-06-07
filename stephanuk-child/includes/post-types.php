@@ -140,3 +140,17 @@ class newTaxonomy
 
 
 }
+
+
+new newPostType(
+	array(
+		'name'                => 'Email Signatures',
+		'singular_name'       => 'Email Signature',
+		'icon'                => 'dashicons-groups',
+		'exclude_from_search' => true,
+		'publicly_queryable'  => false,
+		'show_in_admin_bar'   => false,
+		'has_archive'         => false,
+		'supports'            => array('title', 'revisions', 'thumbnail'),
+	)
+);
