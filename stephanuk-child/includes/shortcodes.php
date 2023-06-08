@@ -341,7 +341,7 @@ function email_preview()
         <iframe style=" width: 100%; height: 200px; "
             src="https://stephan-uk.co.uk/email-signatures/email-signature.php?id=<?= get_the_ID() ?>"> </iframe>
 
-        <a class="button button-primary button-large"
+        <a target="_blank" class="button button-primary button-large"
             href="https://stephan-uk.co.uk/email-signatures/email-signature.php?id=<?= get_the_ID() ?>">View Email</a>
     </div>
 
