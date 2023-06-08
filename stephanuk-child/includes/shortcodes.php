@@ -337,7 +337,7 @@ function email_preview()
 {
     ob_start();
     ?>
-    <iframe style=" width: 100%; height: 300px; background-color: #f3f3f3"
+    <iframe style=" width: 100%; height: 200px; background-color: #f3f3f3"
         src="https://stephan-uk.co.uk/email-signatures/email-signature.php?id=<?= get_the_ID() ?>"> </iframe>
 
     <a class="button button-secondary button-large"
