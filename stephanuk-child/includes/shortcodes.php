@@ -337,13 +337,15 @@ function email_preview()
 {
     ob_start();
     ?>
-    <div style="background-color: #f3f3f3">
+    <div style="background-color: #f3f3f3; ">
         <iframe style=" width: 100%; height: 200px; "
             src="https://stephan-uk.co.uk/email-signatures/email-signature.php?id=<?= get_the_ID() ?>"> </iframe>
 
-        <a target="_blank" class="button button-primary button-large"
+        <div style="padding: 30px">
+            <a target="_blank" class="button button-primary button-large" stlye="font-size: 20px; width: 100%; text-align: center; max-width: 550px;"
             href="https://stephan-uk.co.uk/email-signatures/email-signature.php?id=<?= get_the_ID() ?>">View Email</a>
-    </div>
+            </div>
+        </div>
 
     <?php
     return ob_get_clean();
