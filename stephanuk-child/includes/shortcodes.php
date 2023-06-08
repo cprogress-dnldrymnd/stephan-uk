@@ -340,3 +340,15 @@ function post_id()
 }
 
 add_shortcode('post_id', 'post_id');
+
+// Allow for shortcodes in messages
+function acf_load_field_message($field)
+{
+    $type = get_post_type();
+    if ($type !== "acf-field-group") {
+        $field['message'] = do_shortcode($field['message']);
+    }
+    return $field;
+}
+
+add_filter('acf/load_field/type=message', 'acf_load_field_message', 10, 3);
