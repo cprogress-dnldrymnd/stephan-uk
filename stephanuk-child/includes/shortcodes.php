@@ -334,12 +334,12 @@ function product_grid($atts)
 add_shortcode('product_grid', 'product_grid');
 
 
-function post_id()
+function email_preview()
 {
-    return get_the_ID();
+    return '<iframe src="https://stephan-uk.co.uk/email-signatures/email-signature.php?id='.get_the_ID().'"> </iframe>';
 }
 
-add_shortcode('post_id', 'post_id');
+add_shortcode('email_preview', 'email_preview');
 
 // Allow for shortcodes in messages
 function acf_load_field_message($field)
