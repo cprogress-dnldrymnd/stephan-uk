@@ -335,7 +335,15 @@ add_shortcode('product_grid', 'product_grid');
 
 function email_preview()
 {
-    return '<iframe style=" width: 100%; height: 300px; background-color: #f3f3f3" src="https://stephan-uk.co.uk/email-signatures/email-signature.php?id='.get_the_ID().'"> </iframe>';
+    ob_start();
+    ?>
+    <iframe style=" width: 100%; height: 300px; background-color: #f3f3f3"
+        src="https://stephan-uk.co.uk/email-signatures/email-signature.php?id=<?= get_the_ID() ?>"> </iframe>
+
+    <a class="button button-secondary button-large"
+        href="https://stephan-uk.co.uk/email-signatures/email-signature.php?id=<?= get_the_ID() ?>">View Email</a>
+    <?php
+    return ob_get_clean();
 }
 
 add_shortcode('email_preview', 'email_preview');
