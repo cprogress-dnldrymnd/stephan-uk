@@ -314,8 +314,7 @@ function product_grid($atts)
         <ul class="products owl-carousel product-carousel">
             <?php foreach ($posts as $p) { ?>
                 <li class="product item">
-                    <a href="<?= get_permalink($p->ID) ?>"
-                        class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+                    <a href="<?= get_permalink($p->ID) ?>" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
                         <div class="product-thumb-wrapper">
                             <img src="<?= get_the_post_thumbnail_url($p->ID, 'large') ?>" alt="<?= $p->post_title ?>">
                         </div>
@@ -345,9 +344,7 @@ add_shortcode('email_preview', 'email_preview');
 function acf_load_field_message($field)
 {
     $type = get_post_type();
-    if ($type !== "acf-field-group") {
-        $field['message'] = do_shortcode($field['message']);
-    }
+    $field['message'] = do_shortcode($field['message']);
     return $field;
 }
 
