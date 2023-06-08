@@ -300,8 +300,8 @@ function product_grid($atts)
     );
 
     $args = array(
-        'post__in'  => explode(', ', $product_ids),
-        'post_type' => 'product',
+        'post__in'       => explode(', ', $product_ids),
+        'post_type'      => 'product',
         'posts_per_page' => -1
     );
 
@@ -313,9 +313,8 @@ function product_grid($atts)
     <div class="woocommerce">
         <ul class="products owl-carousel product-carousel">
             <?php foreach ($posts as $p) { ?>
-                <li
-                    class="product item">
-                    <a href="<?= get_permalink( $p->ID ) ?>"
+                <li class="product item">
+                    <a href="<?= get_permalink($p->ID) ?>"
                         class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
                         <div class="product-thumb-wrapper">
                             <img src="<?= get_the_post_thumbnail_url($p->ID, 'large') ?>" alt="<?= $p->post_title ?>">
@@ -333,3 +332,11 @@ function product_grid($atts)
 }
 
 add_shortcode('product_grid', 'product_grid');
+
+
+function post_id()
+{
+    return get_the_ID();
+}
+
+add_shortcode('post_id', 'post_id');
