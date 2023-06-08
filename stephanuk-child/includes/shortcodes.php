@@ -336,7 +336,7 @@ add_shortcode('product_grid', 'product_grid');
 
 function email_preview()
 {
-    return '<iframe src="https://stephan-uk.co.uk/email-signatures/email-signature.php?id='.get_the_ID().'"> </iframe>';
+    return '<iframe src="https://stephan-uk.co.uk/email-signatures/email-signature.php?id="> </iframe>';
 }
 
 add_shortcode('email_preview', 'email_preview');
